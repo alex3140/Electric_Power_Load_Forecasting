@@ -1,4 +1,4 @@
-# Data_Incubator_Project
+# Electrc_Power_Load_Forecasting
 Accurate models for electric power load forecasting are very important for the electric industry.  For example, power producers use power load forecasts to plan how much electricity they will need to generate over a certain period of time. Power demand pattern is usually very complex, and thus finding an appropriate forecasting model for a specific electricity network is not an easy task. In this project I will develop forecasting models for the energy grid of the state of New York.
 
 There is a number of factors that are important for load forecasting. These factors include temporal factors such as the time of the year, the day of the week, the hour of the day, and weather factors such as air temperature and dew point (measure of atmospheric moisture).  The real-time actual load data for the energy grid of the state of New York is available at http://mis.nyiso.com/public/. This weather data is available at the National Climatic Data Center website: https://www.ncdc.noaa.gov.
